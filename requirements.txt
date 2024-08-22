@@ -1,0 +1,5 @@
+Flask
+Flask-Migrate
+Flask-Bcrypt
+Flask-Login
+Flask-WTF
